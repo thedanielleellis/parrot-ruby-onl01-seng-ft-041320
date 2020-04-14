@@ -3,5 +3,5 @@
 
 def parrot (name = "Squawk!")
    puts "Squawk!"
-   Squawk
+   Pretty Bird
 end
